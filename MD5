@@ -1,4 +1,4 @@
-1252d96b26b8e24da1023bddf1450130 *DESCRIPTION
+0b2e41388cb061284d6e4d674465db17 *DESCRIPTION
 5baf5244d778b44315f2295198416ba2 *NAMESPACE
 499ad6cec4c47ad5e95debb04c95735c *R/DetailOpLines.r
 f172ad8c47f8d0128ec7d6e761f3eafb *R/EventElement.r
@@ -10,7 +10,7 @@ f172ad8c47f8d0128ec7d6e761f3eafb *R/EventElement.r
 d962d49f1c753dd78a34c1df41aa59cd *man/EventElement.rd
 8acb24b4b924da8512d593059d911136 *man/MultiTrainWithInventory.Rd
 f73da6c51002ee083d4a018842cd87dd *man/SimHistory.rd
-04332f1bc4cbf7db7b589452f70e7425 *man/stosim-package.Rd
+635e8713324ac844681a5804e410826a *man/stosim-package.Rd
 0b23055b1473b7e0d34209c673ac5d0a *src/DetailOpLines.cpp
 534932293ec8caac1d17e5216b01ac34 *src/MultiTrainWithInventory.cpp
 3b77d97eeff8132b6b1d87816ba1dffb *src/SimulationHistory.cpp
